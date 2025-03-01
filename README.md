@@ -41,6 +41,6 @@ A well-structured travel itinerary with:
 
 ---  
 
-💡 **Contributors:** _Your Name_  
+💡 **Contributors:** Tamilselvan
 📌 **License:** MIT  
 
